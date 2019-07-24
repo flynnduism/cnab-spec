@@ -1,5 +1,5 @@
 ---
-title: CNAB Core
+title: "CNAB Core"
 weight: 100
 ---
 

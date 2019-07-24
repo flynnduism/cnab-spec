@@ -1,5 +1,5 @@
 ---
-title: Declarative Invocation Images
+title: "Declarative Invocation Images"
 weight: 801
 ---
 

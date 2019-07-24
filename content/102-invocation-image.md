@@ -1,5 +1,5 @@
 ---
-title: The Invocation Images
+title: "The Invocation Images"
 weight: 102
 ---
 

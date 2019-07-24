@@ -1,0 +1,12 @@
+.gatsby-context.js
+.DS_Store
+node_modules
+public/
+node_modules/
+.cache/
+.netlify
+.idea/
+.vscode/
+*.sw*
+logs
+*.log

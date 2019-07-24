@@ -1,5 +1,5 @@
 ---
-title: The bundle.json File
+title: "The bundle.json File"
 weight: 101
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Bundle Formats
+title: "Bundle Formats"
 weight: 104
 ---
 

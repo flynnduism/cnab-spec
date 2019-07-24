@@ -1,5 +1,5 @@
 ---
-title: Registries
+title: "Registries"
 weight: 200
 ---
 
